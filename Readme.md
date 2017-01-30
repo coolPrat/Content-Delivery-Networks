@@ -1,4 +1,4 @@
-Follow following steps to run the simulation or <b>watch the video</b> :
+Follow following steps to run the simulation or <b>watch the video</b> : </br>
 1. Create Download folder in the same directory that has Client.java
 2. Create following directory structures on all the cdn's
     <cdn_name> (e.g. cdn1)

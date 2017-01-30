@@ -1,11 +1,11 @@
 Follow following steps to run the simulation or <b>watch the video</b> : </br>
 1. Create Download folder in the same directory that has Client.java
-2. Create following directory structures on all the cdn's
-    <cdn_name> (e.g. cdn1)
-    |
-    --Files
-    |
-    --Sec_Files
+2. Create following directory structures on all the cdn's </br>
+    cdn_name (e.g. cdn1) </br>
+    |</br>
+    --Files</br>
+    |</br>
+    --Sec_Files</br>
 
 3. Compile all java files
 4. Please Run the servers in given order

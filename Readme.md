@@ -1,3 +1,5 @@
+Follow following steps to run the simulation or <b>watch the video</b> :
+
 1. Compile all java files
 2. Please Run the servers in given order
     LDNS.java                
